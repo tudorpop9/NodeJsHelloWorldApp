@@ -1,0 +1,19 @@
+{
+  "name": "node-js-hello-world",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tudorpop9/NodeJsHelloWorldApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tudorpop9/NodeJsHelloWorldApp/issues"
+  },
+  "homepage": "https://github.com/tudorpop9/NodeJsHelloWorldApp#readme"
+}
